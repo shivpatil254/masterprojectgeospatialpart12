@@ -530,28 +530,28 @@ Bosnia and Herzegovina,070,Europe,Southern Europe,2020,0.973771341972556,3428.64
 Bosnia and Herzegovina,070,Europe,Southern Europe,2020,0.882827527614432,3230.627
 Bosnia and Herzegovina,070,Europe,Southern Europe,2020,0.759364211337503,2948.268
 Bosnia and Herzegovina,070,Europe,Southern Europe,2020,0.998384771864715,4136.376
-Botswana,072,Africa,Southern Africa,2022,2.44380407519803,4855.108
-Botswana,072,Africa,Southern Africa,2022,2.65713708291251,5232.809
-Botswana,072,Africa,Southern Africa,2022,2.2546324642686,4400.4
-Botswana,072,Africa,Southern Africa,2022,2.57523766379707,4979.786
-Botswana,072,Africa,Southern Africa,2022,2.45463967748319,4701.094
-Botswana,072,Africa,Southern Africa,2022,2.45054126071234,4646.089
-Botswana,072,Africa,Southern Africa,2022,2.4612115864922,4616.753
-Botswana,072,Africa,Southern Africa,2022,2.36065451796722,4378.398
-Botswana,072,Africa,Southern Africa,2022,2.32713977175622,4264.721
-Botswana,072,Africa,Southern Africa,2022,2.47916003307949,4484.741
-Botswana,072,Africa,Southern Africa,2021,2.43047995653122,4334.394
-Botswana,072,Africa,Southern Africa,2021,2.43578836430962,4275.722
-Botswana,072,Africa,Southern Africa,2021,2.05573636867479,3545.989
-Botswana,072,Africa,Southern Africa,2021,2.26458619458818,3832.015
-Botswana,072,Africa,Southern Africa,2021,1.9382109622053,3212.292
-Botswana,072,Africa,Southern Africa,2021,1.93644250516197,3138.952
-Botswana,072,Africa,Southern Africa,2020,2.22550779846323,3523.987
-Botswana,072,Africa,Southern Africa,2020,2.2621076922579,3494.651
-Botswana,072,Africa,Southern Africa,2020,2.3239958998288,3498.318
-Botswana,072,Africa,Southern Africa,2020,2.23513315386548,3274.631
-Botswana,072,Africa,Southern Africa,2020,1.50848886601948,2148.862
-Botswana,072,Africa,Southern Africa,2020,1.57394256282191,2178.198
+Botswana,072,Africa,Southern Africa,2022,0.44380407519803,4855.108
+Botswana,072,Africa,Southern Africa,2022,0.65713708291251,5232.809
+Botswana,072,Africa,Southern Africa,2022,1800.2546324642686,4400.4
+Botswana,072,Africa,Southern Africa,2022,2000.57523766379707,4979.786
+Botswana,072,Africa,Southern Africa,2022,2200.45463967748319,4701.094
+Botswana,072,Africa,Southern Africa,2022,2300.45054126071234,4646.089
+Botswana,072,Africa,Southern Africa,2022,2477.4612115864922,4616.753
+Botswana,072,Africa,Southern Africa,2022,77.36065451796722,4378.398
+Botswana,072,Africa,Southern Africa,2022,134.32713977175622,4264.721
+Botswana,072,Africa,Southern Africa,2022,215.47916003307949,4484.741
+Botswana,072,Africa,Southern Africa,2021,315.43047995653122,4334.394
+Botswana,072,Africa,Southern Africa,2021,24.43578836430962,4275.722
+Botswana,072,Africa,Southern Africa,2021,511.05573636867479,3545.989
+Botswana,072,Africa,Southern Africa,2021,780.26458619458818,3832.015
+Botswana,072,Africa,Southern Africa,2021,259.9382109622053,3212.292
+Botswana,072,Africa,Southern Africa,2021,95.93644250516197,3138.952
+Botswana,072,Africa,Southern Africa,2020,136.22550779846323,3523.987
+Botswana,072,Africa,Southern Africa,2020,44.2621076922579,3494.651
+Botswana,072,Africa,Southern Africa,2020,41.3239958998288,3498.318
+Botswana,072,Africa,Southern Africa,2020,15.23513315386548,3274.631
+Botswana,072,Africa,Southern Africa,2020,0.50848886601948,2148.862
+Botswana,072,Africa,Southern Africa,2020,0.57394256282191,2178.198
 Brazil,076,Americas,South America,2022,65.85125723721802,439412.943
 Brazil,076,Americas,South America,2022,94.15026804394611,419754.156
 Brazil,076,Americas,South America,2022,103.89749146990989,367147.374
@@ -816,11 +816,11 @@ Central African Republic,140,Africa,Middle Africa,2020,0.071576541752956,223.687
 Central African Republic,140,Africa,Middle Africa,2020,0.0709170644053063,216.353
 Central African Republic,140,Africa,Middle Africa,2020,0.0689195955950957,205.352
 Central African Republic,140,Africa,Middle Africa,2020,0.0679814503038975,198.018
-Chad,148,Africa,Middle Africa,2022,0.0446231249126141,539.049
-Chad,148,Africa,Middle Africa,2022,0.044113698566674,517.047
-Chad,148,Africa,Middle Africa,2022,0.0432120267427059,491.378
-Chad,148,Africa,Middle Africa,2022,0.0462088831207072,509.713
-Chad,148,Africa,Middle Africa,2022,0.0432042441786638,462.042
+Chad,148,Africa,Middle Africa,2022,1.1446231249126141,539.049
+Chad,148,Africa,Middle Africa,2022,2.044113698566674,517.047
+Chad,148,Africa,Middle Africa,2022,3.0432120267427059,491.378
+Chad,148,Africa,Middle Africa,2022,3.0462088831207072,509.713
+Chad,148,Africa,Middle Africa,2022,1.0432042441786638,462.042
 Chad,148,Africa,Middle Africa,2022,0.0393013416663915,407.037
 Chad,148,Africa,Middle Africa,2022,0.0399127737192385,399.703
 Chad,148,Africa,Middle Africa,2022,0.0390791580031255,377.701
@@ -829,15 +829,15 @@ Chad,148,Africa,Middle Africa,2022,0.0188261917123774,168.682
 Chad,148,Africa,Middle Africa,2021,0.019991956772116,172.349
 Chad,148,Africa,Middle Africa,2021,0.0212038065564643,176.016
 Chad,148,Africa,Middle Africa,2021,0.0151208955654695,121.011
-Chad,148,Africa,Middle Africa,2021,0.0147167723329807,113.677
-Chad,148,Africa,Middle Africa,2021,0.0152313700542129,113.677
+Chad,148,Africa,Middle Africa,2021,0.0547167723329807,113.677
+Chad,148,Africa,Middle Africa,2021,0.0252313700542129,113.677
 Chad,148,Africa,Middle Africa,2021,0.0147364564298068,106.343
 Chad,148,Africa,Middle Africa,2020,0.0147092889741504,102.676
 Chad,148,Africa,Middle Africa,2020,0.0151987849972023,102.676
 Chad,148,Africa,Middle Africa,2020,0.0151333933213388,99.009
-Chad,148,Africa,Middle Africa,2020,0.0138837224050605,88.008
-Chad,148,Africa,Middle Africa,2020,0.0113426686406543,69.673
-Chad,148,Africa,Middle Africa,2020,0.0246455811521456,146.68
+Chad,148,Africa,Middle Africa,2020,0.0738837224050605,88.008
+Chad,148,Africa,Middle Africa,2020,0.0313426686406543,69.673
+Chad,148,Africa,Middle Africa,2020,0.0346455811521456,146.68
 Chile,152,Americas,South America,2022,135.58786832950775,79408.885
 Chile,152,Americas,South America,2022,810.21312145934058,72258.235
 Chile,152,Americas,South America,2022,986.93164262447924,66805.406
@@ -1340,24 +1340,24 @@ Equatorial Guinea,226,Africa,Middle Africa,2020,0.248377428414536,102.676
 Equatorial Guinea,226,Africa,Middle Africa,2020,0.541390053174851,216.353
 Equatorial Guinea,226,Africa,Middle Africa,2020,0.521934795998116,201.685
 Equatorial Guinea,226,Africa,Middle Africa,2020,0.323687779355947,121.011
-Eritrea,232,Africa,Eastern Africa,2022,0.0877679065650045,520.714
-Eritrea,232,Africa,Eastern Africa,2022,0.0894209688322515,513.38
-Eritrea,232,Africa,Eastern Africa,2022,0.0923696029193818,513.38
-Eritrea,232,Africa,Eastern Africa,2022,0.0769896786849451,414.371
-Eritrea,232,Africa,Eastern Africa,2022,0.111209813111558,579.386
-Eritrea,232,Africa,Eastern Africa,2022,0.111429391964625,561.051
-Eritrea,232,Africa,Eastern Africa,2022,0.1578888708971,766.403
-Eritrea,232,Africa,Eastern Africa,2022,0.16505548575272,770.07
-Eritrea,232,Africa,Eastern Africa,2022,0.162338880450966,726.066
-Eritrea,232,Africa,Eastern Africa,2022,0.141315954685845,605.055
-Eritrea,232,Africa,Eastern Africa,2021,0.153774774728649,630.724
-Eritrea,232,Africa,Eastern Africa,2021,0.154523540443749,608.722
-Eritrea,232,Africa,Eastern Africa,2021,0.163283346296448,619.723
-Eritrea,232,Africa,Eastern Africa,2021,0.160940749928442,590.387
-Eritrea,232,Africa,Eastern Africa,2021,0.148313383532476,528.048
-Eritrea,232,Africa,Eastern Africa,2021,0.0981836523820039,341.031
-Eritrea,232,Africa,Eastern Africa,2020,0.0860845610027783,293.36
-Eritrea,232,Africa,Eastern Africa,2020,0.0664561653485081,223.687
+Eritrea,232,Africa,Eastern Africa,2022,1.0877679065650045,520.714
+Eritrea,232,Africa,Eastern Africa,2022,1.0894209688322515,513.38
+Eritrea,232,Africa,Eastern Africa,2022,1.0923696029193818,513.38
+Eritrea,232,Africa,Eastern Africa,2022,1.0769896786849451,414.371
+Eritrea,232,Africa,Eastern Africa,2022,1.111209813111558,579.386
+Eritrea,232,Africa,Eastern Africa,2022,1.111429391964625,561.051
+Eritrea,232,Africa,Eastern Africa,2022,1.1578888708971,766.403
+Eritrea,232,Africa,Eastern Africa,2022,2.16505548575272,770.07
+Eritrea,232,Africa,Eastern Africa,2022,1.162338880450966,726.066
+Eritrea,232,Africa,Eastern Africa,2022,1.141315954685845,605.055
+Eritrea,232,Africa,Eastern Africa,2021,2.153774774728649,630.724
+Eritrea,232,Africa,Eastern Africa,2021,1.154523540443749,608.722
+Eritrea,232,Africa,Eastern Africa,2021,2.163283346296448,619.723
+Eritrea,232,Africa,Eastern Africa,2021,1.160940749928442,590.387
+Eritrea,232,Africa,Eastern Africa,2021,2.148313383532476,528.048
+Eritrea,232,Africa,Eastern Africa,2021,2.0981836523820039,341.031
+Eritrea,232,Africa,Eastern Africa,2020,1.0860845610027783,293.36
+Eritrea,232,Africa,Eastern Africa,2020,1.0664561653485081,223.687
 Estonia,233,Europe,Northern Europe,2022,14.4074088951856,18650.362
 Estonia,233,Europe,Northern Europe,2022,14.1226037382184,18338.667
 Estonia,233,Europe,Northern Europe,2022,11.3165027456609,14745.007
@@ -1969,28 +1969,28 @@ India,356,Asia,Southern Asia,2020,50.884041935325219,814297.687
 India,356,Asia,Southern Asia,2020,50.867092169982351,783634.233
 India,356,Asia,Southern Asia,2020,20.832462131450584,737851.738
 India,356,Asia,Southern Asia,2020,16.79477979681449,690576.774
-Indonesia,360,Asia,South-Eastern Asia,2022,2.31329289792018,563984.6
-Indonesia,360,Asia,South-Eastern Asia,2022,1.81563945476435,436981.722
-Indonesia,360,Asia,South-Eastern Asia,2022,1.90791800494052,453105.521
-Indonesia,360,Asia,South-Eastern Asia,2022,1.76050636353013,412387.153
+Indonesia,360,Asia,South-Eastern Asia,2022,3.71329289792018,563984.6
+Indonesia,360,Asia,South-Eastern Asia,2022,3.81563945476435,436981.722
+Indonesia,360,Asia,South-Eastern Asia,2022,3.90791800494052,453105.521
+Indonesia,360,Asia,South-Eastern Asia,2022,2.76050636353013,412387.153
 Indonesia,360,Asia,South-Eastern Asia,2022,1.62592647702495,375544.804
-Indonesia,360,Asia,South-Eastern Asia,2022,1.51561185848018,345119.705
-Indonesia,360,Asia,South-Eastern Asia,2022,1.52347817777157,341991.754
-Indonesia,360,Asia,South-Eastern Asia,2022,1.52573349356015,337635.358
-Indonesia,360,Asia,South-Eastern Asia,2022,1.45220488202612,316792.13
-Indonesia,360,Asia,South-Eastern Asia,2022,1.42643072139456,306737.216
-Indonesia,360,Asia,South-Eastern Asia,2021,1.39126743331501,294907.474
-Indonesia,360,Asia,South-Eastern Asia,2021,1.26074751839413,263418.945
-Indonesia,360,Asia,South-Eastern Asia,2021,1.17500714055658,241988.997
-Indonesia,360,Asia,South-Eastern Asia,2021,1.03556736886983,210210.775
-Indonesia,360,Asia,South-Eastern Asia,2021,1.39294365675089,278658.997
-Indonesia,360,Asia,South-Eastern Asia,2021,1.28510099654189,253290.691
-Indonesia,360,Asia,South-Eastern Asia,2020,1.15881794890177,224941.114
-Indonesia,360,Asia,South-Eastern Asia,2020,1.15871303444084,221413.46
-Indonesia,360,Asia,South-Eastern Asia,2020,1.16265136918566,218600.871
-Indonesia,360,Asia,South-Eastern Asia,2020,1.09549823713197,202576.081
-Indonesia,360,Asia,South-Eastern Asia,2020,0.988691899928294,179730.671
-Indonesia,360,Asia,South-Eastern Asia,2020,0.837279387852336,149565.929
+Indonesia,360,Asia,South-Eastern Asia,2022,3.51561185848018,345119.705
+Indonesia,360,Asia,South-Eastern Asia,2022,2.52347817777157,341991.754
+Indonesia,360,Asia,South-Eastern Asia,2022,18.52573349356015,337635.358
+Indonesia,360,Asia,South-Eastern Asia,2022,21.45220488202612,316792.13
+Indonesia,360,Asia,South-Eastern Asia,2022,21.42643072139456,306737.216
+Indonesia,360,Asia,South-Eastern Asia,2021,21.39126743331501,294907.474
+Indonesia,360,Asia,South-Eastern Asia,2021,31.26074751839413,263418.945
+Indonesia,360,Asia,South-Eastern Asia,2021,21.17500714055658,241988.997
+Indonesia,360,Asia,South-Eastern Asia,2021,21.03556736886983,210210.775
+Indonesia,360,Asia,South-Eastern Asia,2021,10.39294365675089,278658.997
+Indonesia,360,Asia,South-Eastern Asia,2021,4.28510099654189,253290.691
+Indonesia,360,Asia,South-Eastern Asia,2020,4.15881794890177,224941.114
+Indonesia,360,Asia,South-Eastern Asia,2020,5.15871303444084,221413.46
+Indonesia,360,Asia,South-Eastern Asia,2020,5.16265136918566,218600.871
+Indonesia,360,Asia,South-Eastern Asia,2020,2.09549823713197,202576.081
+Indonesia,360,Asia,South-Eastern Asia,2020,2.988691899928294,179730.671
+Indonesia,360,Asia,South-Eastern Asia,2020,1.837279387852336,149565.929
 Iran (Islamic Republic of),364,Asia,Southern Asia,2022,67.77732250295777,586598.989
 Iran (Islamic Republic of),364,Asia,Southern Asia,2022,67.67642845480198,571604.626
 Iran (Islamic Republic of),364,Asia,Southern Asia,2022,67.57433950776576,557039.302
@@ -2860,28 +2860,28 @@ Myanmar,104,Asia,South-Eastern Asia,2020,0.121282413726647,5342.819
 Myanmar,104,Asia,South-Eastern Asia,2020,0.112571124831058,4888.111
 Myanmar,104,Asia,South-Eastern Asia,2020,0.0977126404845059,4180.38
 Myanmar,104,Asia,South-Eastern Asia,2020,0.101505631020656,4275.722
-Namibia,516,Africa,Southern Africa,2022,1.25175706546393,2775.919
-Namibia,516,Africa,Southern Africa,2022,1.45908083968229,3179.289
-Namibia,516,Africa,Southern Africa,2022,1.48493537199475,3182.956
-Namibia,516,Africa,Southern Africa,2022,1.69556910182012,3578.992
-Namibia,516,Africa,Southern Africa,2022,1.15788869130581,2409.219
-Namibia,516,Africa,Southern Africa,2022,1.13425390332164,2328.545
-Namibia,516,Africa,Southern Africa,2022,1.13970417745012,2310.21
-Namibia,516,Africa,Southern Africa,2022,0.979296867200448,1961.845
-Namibia,516,Africa,Southern Africa,2022,0.945791442417035,1873.837
-Namibia,516,Africa,Southern Africa,2022,0.898819028516016,1760.16
-Namibia,516,Africa,Southern Africa,2021,1.04430632087908,2016.85
-Namibia,516,Africa,Southern Africa,2021,0.865572540521288,1642.816
-Namibia,516,Africa,Southern Africa,2021,0.896437496399051,1664.818
-Namibia,516,Africa,Southern Africa,2021,1.0536663426753,1906.84
-Namibia,516,Africa,Southern Africa,2021,1.02210562302293,1796.83
-Namibia,516,Africa,Southern Africa,2021,1.02571381491565,1749.159
-Namibia,516,Africa,Southern Africa,2020,0.986459430279274,1631.815
-Namibia,516,Africa,Southern Africa,2020,0.822080571518245,1320.12
-Namibia,516,Africa,Southern Africa,2020,0.738347397850565,1151.438
-Namibia,516,Africa,Southern Africa,2020,0.741302870008305,1122.102
-Namibia,516,Africa,Southern Africa,2020,0.692806066492423,1015.759
-Namibia,516,Africa,Southern Africa,2020,0.0181349072059922,25.669
+N28ibia,516,Africa,Southern Africa,2022,11.25175706546393,2775.919
+Namibia,516,Africa,Southern Africa,2022,11.45908083968229,3179.289
+Namibia,516,Africa,Southern Africa,2022,12.48493537199475,3182.956
+Namibia,516,Africa,Southern Africa,2022,11.69556910182012,3578.992
+Namibia,516,Africa,Southern Africa,2022,11.15788869130581,2409.219
+Namibia,516,Africa,Southern Africa,2022,12.13425390332164,2328.545
+Namibia,516,Africa,Southern Africa,2022,10.13970417745012,2310.21
+Namibia,516,Africa,Southern Africa,2022,9.979296867200448,1961.845
+Namibia,516,Africa,Southern Africa,2022,26.945791442417035,1873.837
+Namibia,516,Africa,Southern Africa,2022,71.898819028516016,1760.16
+Namibia,516,Africa,Southern Africa,2021,242.04430632087908,2016.85
+Namibia,516,Africa,Southern Africa,2021,72.865572540521288,1642.816
+Namibia,516,Africa,Southern Africa,2021,189.896437496399051,1664.818
+Namibia,516,Africa,Southern Africa,2021,180.0536663426753,1906.84
+Namibia,516,Africa,Southern Africa,2021,187.02210562302293,1796.83
+Namibia,516,Africa,Southern Africa,2021,173.02571381491565,1749.159
+Namibia,516,Africa,Southern Africa,2020,60.986459430279274,1631.815
+Namibia,516,Africa,Southern Africa,2020,50.822080571518245,1320.12
+Namibia,516,Africa,Southern Africa,2020,50.738347397850565,1151.438
+Namibia,516,Africa,Southern Africa,2020,40.741302870008305,1122.102
+Namibia,516,Africa,Southern Africa,2020,30.692806066492423,1015.759
+Namibia,516,Africa,Southern Africa,2020,0.2881349072059922,25.669
 Nauru,520,Oceania,Micronesia,2022,,51.338
 Nauru,520,Oceania,Micronesia,2022,,55.005
 Nauru,520,Oceania,Micronesia,2022,,51.338
@@ -3124,28 +3124,28 @@ Oman,512,Asia,Western Asia,2020,6.58437838811064,13457.89
 Oman,512,Asia,Western Asia,2020,6.14529102262633,12079.098
 Oman,512,Asia,Western Asia,2020,6.24448021151851,11771.07
 Oman,512,Asia,Western Asia,2020,6.29026911728228,11386.035
-Pakistan,586,Asia,Southern Asia,2022,0.927832444825602,163452.858
-Pakistan,586,Asia,Southern Asia,2022,0.940187412590611,162792.798
-Pakistan,586,Asia,Southern Asia,2022,0.942329364600335,160284.57
-Pakistan,586,Asia,Southern Asia,2022,0.95247361769909,159070.793
-Pakistan,586,Asia,Southern Asia,2022,0.969294190755766,158894.777
-Pakistan,586,Asia,Southern Asia,2022,0.907828993404675,146074.945
-Pakistan,586,Asia,Southern Asia,2022,0.864941844067169,136636.087
-Pakistan,586,Asia,Southern Asia,2022,0.848212140459402,131601.296
-Pakistan,586,Asia,Southern Asia,2022,0.780049608196364,118895.141
-Pakistan,586,Asia,Southern Asia,2022,0.762116569995031,114084.037
-Pakistan,586,Asia,Southern Asia,2021,0.73733484461672,108282.843
-Pakistan,586,Asia,Southern Asia,2021,0.740094920731625,106449.343
-Pakistan,586,Asia,Southern Asia,2021,0.714069147819599,100384.125
-Pakistan,586,Asia,Southern Asia,2021,0.712146103425211,97663.211
-Pakistan,586,Asia,Southern Asia,2021,0.708930044884376,94711.276
-Pakistan,586,Asia,Southern Asia,2021,0.726049858667919,94447.252
-Pakistan,586,Asia,Southern Asia,2020,0.666858434612975,84484.013
-Pakistan,586,Asia,Southern Asia,2020,0.68723427144937,84839.712
-Pakistan,586,Asia,Southern Asia,2020,0.648248429103794,78008.091
-Pakistan,586,Asia,Southern Asia,2020,0.62059097898989,72789.95
-Pakistan,586,Asia,Southern Asia,2020,0.597420683396007,68242.87
-Pakistan,586,Asia,Southern Asia,2020,0.617202479782341,68565.566
+Pakistan,586,Asia,Southern Asia,2022,0.427832444825602,163452.858
+Pakistan,586,Asia,Southern Asia,2022,1.940187412590611,162792.798
+Pakistan,586,Asia,Southern Asia,2022,18.942329364600335,160284.57
+Pakistan,586,Asia,Southern Asia,2022,20.95247361769909,159070.793
+Pakistan,586,Asia,Southern Asia,2022,20.969294190755766,158894.777
+Pakistan,586,Asia,Southern Asia,2022,30.907828993404675,146074.945
+Pakistan,586,Asia,Southern Asia,2022,20.864941844067169,136636.087
+Pakistan,586,Asia,Southern Asia,2022,30.848212140459402,131601.296
+Pakistan,586,Asia,Southern Asia,2022,12.780049608196364,118895.141
+Pakistan,586,Asia,Southern Asia,2022,10.762116569995031,114084.037
+Pakistan,586,Asia,Southern Asia,2021,2.73733484461672,108282.843
+Pakistan,586,Asia,Southern Asia,2021,8.740094920731625,106449.343
+Pakistan,586,Asia,Southern Asia,2021,6.714069147819599,100384.125
+Pakistan,586,Asia,Southern Asia,2021,5.712146103425211,97663.211
+Pakistan,586,Asia,Southern Asia,2021,6.708930044884376,94711.276
+Pakistan,586,Asia,Southern Asia,2021,5.726049858667919,94447.252
+Pakistan,586,Asia,Southern Asia,2020,9.666858434612975,84484.013
+Pakistan,586,Asia,Southern Asia,2020,8.68723427144937,84839.712
+Pakistan,586,Asia,Southern Asia,2020,5.648248429103794,78008.091
+Pakistan,586,Asia,Southern Asia,2020,5.62059097898989,72789.95
+Pakistan,586,Asia,Southern Asia,2020,1.597420683396007,68242.87
+Pakistan,586,Asia,Southern Asia,2020,1.617202479782341,68565.566
 Palau,585,Oceania,Micronesia,2022,,223.687
 Palau,585,Oceania,Micronesia,2022,,216.353
 Palau,585,Oceania,Micronesia,2022,,209.019
@@ -3879,28 +3879,28 @@ State of Palestine,275,Asia,Western Asia,2021,0.247169356781498,792.072
 State of Palestine,275,Asia,Western Asia,2021,0.209377180478014,649.059
 State of Palestine,275,Asia,Western Asia,2021,0.201769934069503,601.388
 State of Palestine,275,Asia,Western Asia,2021,0.138862893422249,396.036
-Sudan (former),729,Africa,Northern Africa,2022,,16578.507
-Sudan (former),729,Africa,Northern Africa,2022,,15779.101
-Sudan (former),729,Africa,Northern Africa,2022,,15427.069
-Sudan (former),729,Africa,Northern Africa,2022,,13930.933
-Sudan (former),729,Africa,Northern Africa,2022,,13113.192
-Sudan (former),729,Africa,Northern Africa,2022,,11503.379
-Sudan (former),729,Africa,Northern Africa,2022,,10707.64
-Sudan (former),729,Africa,Northern Africa,2022,,11382.368
-Sudan (former),729,Africa,Northern Africa,2022,,9072.158
-Sudan (former),729,Africa,Northern Africa,2022,,8118.738
-Sudan (former),729,Africa,Northern Africa,2021,,6369.579
-Sudan (former),729,Africa,Northern Africa,2021,,5533.503
-Sudan (former),729,Africa,Northern Africa,2021,,5093.463
-Sudan (former),729,Africa,Northern Africa,2021,,4697.427
-Sudan (former),729,Africa,Northern Africa,2021,,5419.826
-Sudan (former),729,Africa,Northern Africa,2021,,4268.388
-Sudan (former),729,Africa,Northern Africa,2020,,4602.085
-Sudan (former),729,Africa,Northern Africa,2020,,4444.404
-Sudan (former),729,Africa,Northern Africa,2020,,2907.931
-Sudan (former),729,Africa,Northern Africa,2020,,4756.099
-Sudan (former),729,Africa,Northern Africa,2020,,5386.823
-Sudan (former),729,Africa,Northern Africa,2020,,5559.172
+Sudan (former),729,Africa,Northern Africa,2022,1.0,16578.507
+Sudan (former),729,Africa,Northern Africa,2022,3.0,15779.101
+Sudan (former),729,Africa,Northern Africa,2022,2.0,15427.069
+Sudan (former),729,Africa,Northern Africa,2022,3.0,13930.933
+Sudan (former),729,Africa,Northern Africa,2022,2.0,13113.192
+Sudan (former),729,Africa,Northern Africa,2022,2.0,11503.379
+Sudan (former),729,Africa,Northern Africa,2022,2.0,10707.64
+Sudan (former),729,Africa,Northern Africa,2022,2.0,11382.368
+Sudan (former),729,Africa,Northern Africa,2022,3.0,9072.158
+Sudan (former),729,Africa,Northern Africa,2022,4.0,8118.738
+Sudan (former),729,Africa,Northern Africa,2021,2.0,6369.579
+Sudan (former),729,Africa,Northern Africa,2021,2.0,5533.503
+Sudan (former),729,Africa,Northern Africa,2021,2.0,5093.463
+Sudan (former),729,Africa,Northern Africa,2021,2.0,4697.427
+Sudan (former),729,Africa,Northern Africa,2021,2.0,5419.826
+Sudan (former),729,Africa,Northern Africa,2021,1.0,4268.388
+Sudan (former),729,Africa,Northern Africa,2020,2.0,4602.085
+Sudan (former),729,Africa,Northern Africa,2020,3.0,4444.404
+Sudan (former),729,Africa,Northern Africa,2020,3.0,2907.931
+Sudan (former),729,Africa,Northern Africa,2020,2.0,4756.099
+Sudan (former),729,Africa,Northern Africa,2020,2.0,5386.823
+Sudan (former),729,Africa,Northern Africa,2020,2.0,5559.172
 Suriname,740,Americas,South America,2022,8.4563564513054,1910.507
 Suriname,740,Americas,South America,2022,32.11139705882353,2394.551
 Suriname,740,Americas,South America,2022,51.66846497223039,2475.225
